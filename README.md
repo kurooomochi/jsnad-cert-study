@@ -1,9 +1,7 @@
-<div align="center">
-    <img src="public/image.png" alt="Logo" width="200"/>
-    <h1>
-        OPENJS JSNAD Certification preparation
-    </h1>
-</div>
+<img src="public/image.png" alt="Logo" width="200"/>
+<h1>
+    OPENJS JSNAD Certification preparation
+</h1>
 
 ## Description
 This repository contains a collection of resources and tools that helped myself (and hopefuly you) prepare for the [OpenJS JSNAD (JavaScript Node.js Application Developer) certification exam](https://training.linuxfoundation.org/certification/jsnad/). The JSNAD certification is designed to validate your skills and knowledge in developing applications using Node.js and JavaScript.
